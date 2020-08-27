@@ -4,9 +4,9 @@ tags: [home]
 
 # Morg Systems
 
-You are viewing a [neuron-template](https://github.com/srid/neuron-template) Zettelkasten published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+Welcome to my own Zettelkansten home page.
 
-Get started by reading [[[README]]].
+There's not much here yet, but I'll be adding more notes as I figure it out.
 
 Other pages on this zettelkasten:
 
