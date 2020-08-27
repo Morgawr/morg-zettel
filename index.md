@@ -4,9 +4,17 @@ tags: [home]
 
 # Morg Systems
 
-Welcome to my own Zettelkasten home page.
+Welcome to [[[3d24ec19]]]'s personal Zettelkasten-powered home page.
 
-There's not much here yet, but I'll be adding more notes as I figure it out.
+This site is powered [Neuron](https://github.com/srid/neuron) and [GH
+pages](https://github.com/Morgawr/morg-zettel/tree/master).
+
+## Why?
+
+The idea is to gather all kind of knowledge and personal thoughts/ideas I have
+as I go through my everyday life, and map them in a
+[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-like structure that
+can be freely browsed consulted at any time.
 
 Other pages on this zettelkasten:
 
