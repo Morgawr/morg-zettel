@@ -6,7 +6,7 @@ tags: [home]
 
 Welcome to [[[3d24ec19]]]'s personal Zettelkasten-powered home page.
 
-This site is powered [Neuron](https://github.com/srid/neuron) and [GH
+This site is powered by [Neuron](https://github.com/srid/neuron) and [GH
 pages](https://github.com/Morgawr/morg-zettel/tree/master).
 
 ## Why?
