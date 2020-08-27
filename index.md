@@ -14,7 +14,7 @@ pages](https://github.com/Morgawr/morg-zettel/tree/master).
 The idea is to gather all kind of knowledge and personal thoughts/ideas I have
 as I go through my everyday life, and map them in a
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-like structure that
-can be freely browsed consulted at any time.
+can be freely browsed / consulted at any time.
 
 Other pages on this zettelkasten:
 
