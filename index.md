@@ -4,7 +4,7 @@ tags: [home]
 
 # Morg Systems
 
-Welcome to my own Zettelkansten home page.
+Welcome to my own Zettelkasten home page.
 
 There's not much here yet, but I'll be adding more notes as I figure it out.
 
