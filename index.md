@@ -19,6 +19,8 @@ can be freely browsed / consulted at any time.
 
 ## Timeline
 
+For a chronological list of zettels, see [[[78550a77]]]
+
 [[z:zettels?tag=timeline/**&timeline]]
 
 
