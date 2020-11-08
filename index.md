@@ -4,7 +4,7 @@ tags: [home]
 
 # Morg Systems
 
-Welcome to [[[3d24ec19]]]'s personal Zettelkasten-powered Home Page.
+Welcome to [[[3d24ec19]]]'s personal Zettelkasten-powered home page.
 
 This site is powered by [Neuron](https://github.com/srid/neuron) and hosted on
  [GH pages](https://github.com/Morgawr/morg-zettel/tree/master). Built using
