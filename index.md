@@ -17,13 +17,11 @@ as I go through my everyday life, and map them in a
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-like structure that
 can be freely browsed / consulted at any time.
 
-## Timeline
-
-For a chronological list of zettels, see [[[78550a77]]]
-
-[[z:zettels?tag=timeline/**&timeline]]
-
-## Top Level topics
+## Top Level topics of interest
 
  * [[5e00df06]]
  * [[fa0c8901]]
+
+## Timeline
+
+For a chronological list of zettels, see [[[78550a77]]]
