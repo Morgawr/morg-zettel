@@ -27,4 +27,3 @@ jobs:
           BRANCH: gh-pages
           FOLDER: .neuron/output
           CLEAN: true
-          cname: morg.systems

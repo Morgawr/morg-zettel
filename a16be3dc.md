@@ -6,7 +6,6 @@ tags:
   - learningtricks
 ---
 
-## [[a1b59e45]]
 # How do I look up the meaning of this kanji?
 
  - Go to [Jisho](https://jisho.org) (or use the [mobile app](https://play.google.com/store/apps/details?id=ric.Jsho))
