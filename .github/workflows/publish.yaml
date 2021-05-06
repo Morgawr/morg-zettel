@@ -11,10 +11,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: Download neuron
       run: |
-        curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
+        #curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
         #| jq 'first(.artifacts | .[] | select(.name == "neuron-bundle-linux") | .archive_download_url)' -r \
-          | jq 'first(.artifacts | .[] | select(.id == 50529122) | .archive_download_url)' -r \
-          | xargs curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" --silent -L -o neuron-bundle-linux.zip
+        #| jq 'first(.artifacts | .[] | select(.id == 50529122) | .archive_download_url)' -r \
+        echo "https://api.github.com/repos/srid/neuron/actions/artifacts/50529122/zip" | xargs curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" --silent -L -o neuron-bundle-linux.zip
         unzip neuron-bundle-linux.zip
         chmod +x neuron
         ./neuron --version  # This extracts the bundle; should take a while
