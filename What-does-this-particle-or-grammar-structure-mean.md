@@ -1,12 +1,12 @@
 ---
-date: 2021-05-06T21:35
+date: 2021-05-06T23:42
 tags:
   - timeline
   - japanese
   - learningtricks
 ---
 
-#  What does this particle or grammar structure mean?
+# What does this particle or grammar structure mean?
 
  - Use [Itazuraneko's grammar point aggregate](https://itazuraneko.neocities.org/grammar/masterreference.html)
    to search for the grammar point you are unsure about
