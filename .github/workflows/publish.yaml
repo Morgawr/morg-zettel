@@ -25,6 +25,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: doc/.neuron/output
+          FOLDER: .neuron/output
           CLEAN: true
           cname: morg.systems
