@@ -1,33 +1,3 @@
-#name: "Publish"
-#on:
-#  # Run only when pushing to master branch
-#  push:
-#    branches:
-#      - master
-#jobs:
-#  neuron:
-#    runs-on: ubuntu-latest
-#    steps:
-#    - uses: actions/checkout@v2
-#      #- name: Download neuron
-#      #  run: |
-#      #    #curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
-#      #    #| jq 'first(.artifacts | .[] | select(.name == "neuron-bundle-linux") | .archive_download_url)' -r \
-#      #    #| jq 'first(.artifacts | .[] | select(.id == 50529122) | .archive_download_url)' -r \
-#      #    echo "https://api.github.com/repos/srid/neuron/actions/artifacts/50529122/zip" | xargs curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" --silent -L -o neuron-bundle-linux.zip
-#      #    unzip neuron-bundle-linux.zip
-#      #    chmod +x neuron
-#      #    ./neuron --version  # This extracts the bundle; should take a while
-#    - name: Build neuron site 🔧
-#      run: |
-#        sudo docker run --rm -t -i -p 8080:8080 -v $PWD sridca/neuron neuron -d $PWD gen
-#        #./neuron -d $PWD gen
-#    - name: Deploy to gh-pages 🚀
-#      uses: peaceiris/actions-gh-pages@v3
-#      with:
-#        github_token: ${{ secrets.GITHUB_TOKEN }}
-#        publish_dir: .neuron/output/
-#        cname: morg.systems
 name: "Publish Neuron site"
 on:
   # Run only when pushing to master branch
@@ -49,7 +19,7 @@ jobs:
       - name: Build neuron site 🔧
         run: |
           neuron --version
-          neuron -d doc/ gen --pretty-urls
+          neuron gen --pretty-urls
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
