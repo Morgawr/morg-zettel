@@ -15,8 +15,8 @@ unlocking language acquisition.
 The most important thing is being able to navigate the vast amount of resources
 available to you on the Internet without getting lost or incorrect advice.
 
-These are the resources, tools, and steps that I follow whenever I get stumped
-by something new in Japanese that I cannot understand.
+These are the steps that I follow whenever I get stumped by something new in
+Japanese that I cannot understand.
 
  - [[What-does-this-particle-or-grammar-structure-mean]]
  - [[What-does-this-word-mean]]
