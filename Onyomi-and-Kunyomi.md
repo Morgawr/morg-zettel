@@ -18,14 +18,14 @@ the individual kanji.
 
 Take for example the following emojis: 🚗 ✈ 🇬🇧
 
-Now read the following two sentences:
+Now read the following sentences:
  - "There are a lot of 🚗 on the road."
  - "I bought a new 🚗 today."
 
-You probably read 🚗 as `cars` in the first sentence and `car` in the second
-one.
+You probably read 🚗 as `cars` (plural) in the first and `car` (singular) in the
+second sentence.
 
-Take the following examples:
+Take now the following examples:
  - "I ✈ to 🇬🇧  for the holidays."
  - "The stewardess on the ✈ did not speak 🇬🇧 at all."
 
@@ -52,8 +52,8 @@ was kept the same as the original Japanese one.
 As a (historically incorrect) example:
 
 The word たべる (to eat) got assigned the kanji 食 which meant “meal” or “food”
- in Chinese, and it became <ruby>食<rt>た</rt></ruby>べる. This was completely
-independent from the Chinese pronunciation of the morpheme 食.
+ in Chinese, and it became <ruby>食<rt>た</rt></ruby>べる. This was done
+completely independently of the Chinese pronunciation of the symbol 食.
 
 This is called a <ruby>訓読<rt>くんよ</rt></ruby>み (Japanese reading) for the
 kanji 食.
@@ -75,8 +75,8 @@ influences from China, they actually took and assimilated *Chinese words*,
 phrases, and proverbs into Japanese.
 
 During this process, since they needed to import Chinese pronunciation into
-the Japanese phonetic system, they ended up creating separate readings that
-deviated significantly from their original Chinese versions.
+the Japanese phonetic system, they created separate readings that deviated
+significantly from their original Chinese versions.
 
 These words are called <ruby>漢語<rt>かんご</rt></ruby> (Chinese words). They
 are usually (but not always!) compounds of multiple kanji together (called <ruby>熟語<rt>じゅくご</rt></ruby>).

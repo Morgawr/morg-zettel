@@ -13,7 +13,8 @@ would be much simpler to learn. In reality, however, Japanese words have a lot
 of exception classes and phonetic situations that don’t conform to a
 one-size-fits-all rule.
 
-One of these situations is *ateji* (<ruby>当<rt>あ</rt>て</ruby><ruby>字<rt>じ</rt></ruby>).
+One of these situations is *ateji* (<ruby>当<rt>あ</rt>て</ruby><ruby>字<rt>じ</rt></ruby>)
+readings.
 
 <ruby>当<rt>あ</rt>て</ruby><ruby>字<rt>じ</rt></ruby> are arbitrarily
 assigned special readings of kanji compounds that follow either one of these two
