@@ -8,7 +8,7 @@ tags:
 
 # EJLX
 
-This is the **J**apanese **L**anguage **EX**change discord server.
+This is the **E**nglish **J**apanese **L**anguage **E**xchange discord server.
 
 You can find it at [discord.gg/japanese](https://discord.gg/japanese).
 
