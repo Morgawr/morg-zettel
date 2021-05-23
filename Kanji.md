@@ -75,8 +75,8 @@ share a lot of similarities.
 ## Beginner向き - Fundamentals of Kanji
 
  * Kanji phonetics:
-   * [[Onyomi-and-Kunyomi]]
-   * [[Ateji]]
+   * [[[Onyomi-and-Kunyomi]]]
+   * [[[Ateji]]]
 
 ## Advanced向き - In-depth with Kanji
 
