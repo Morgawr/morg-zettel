@@ -77,6 +77,8 @@ share a lot of similarities.
  * Kanji phonetics:
    * [[[Onyomi-and-Kunyomi]]]
    * [[[Ateji]]]
+   * [[[Furigana]]]
+   * [[[Gikun]]]
 
 ## Advanced向き - In-depth with Kanji
 
