@@ -26,3 +26,5 @@ Japanese that I cannot understand.
  - [[What-is-the-counter-for-this-word]]
  - [[How-do-I-pronounce-this-word]]
  - [[How-do-I-read-this-word]]
+ - [[What-does-this-contraction-mean]]
+ - [[How-do-I-read-this-math-expression-in-Japanese]]
