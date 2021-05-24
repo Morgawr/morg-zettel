@@ -18,13 +18,13 @@ available to you on the Internet without getting lost or incorrect advice.
 These are the steps that I follow whenever I get stumped by something new in
 Japanese that I cannot understand.
 
- - [[What-does-this-particle-or-grammar-structure-mean]]
- - [[What-does-this-word-mean]]
- - [[How-do-I-look-up-the-meaning-of-this-kanji]]
- - [[What-is-the-difference-between-these-two-words]]
- - [[What-is-the-difference-between-this-word-written-with-these-two-different-kanji]]
- - [[What-is-the-counter-for-this-word]]
- - [[How-do-I-pronounce-this-word]]
- - [[How-do-I-read-this-word]]
- - [[What-does-this-contraction-mean]]
- - [[How-do-I-read-this-math-expression-in-Japanese]]
+ - [[[What-does-this-particle-or-grammar-structure-mean]]]
+ - [[[What-does-this-word-mean]]]
+ - [[[How-do-I-look-up-the-meaning-of-this-kanji]]]
+ - [[[What-is-the-difference-between-these-two-words]]]
+ - [[[What-is-the-difference-between-this-word-written-with-these-two-different-kanji]]]
+ - [[[What-is-the-counter-for-this-word]]]
+ - [[[How-do-I-pronounce-this-word]]]
+ - [[[How-do-I-read-this-word]]]
+ - [[[What-does-this-contraction-mean]]]
+ - [[[How-do-I-read-this-math-expression-in-Japanese]]]
