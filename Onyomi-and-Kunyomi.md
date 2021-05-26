@@ -116,7 +116,7 @@ You can think of <ruby>音読<rt>おんよ</rt></ruby>み and <ruby>訓読<rt>�
 as the equivalent of Latin and Greek roots for modern European languages.
 
 To see a few more examples of <ruby>和語<rt>わご</rt></ruby> and <ruby>漢語<rt>かんご</rt></ruby>
-words, see [[4af75655]].
+words, see [[[4af75655]]].
 
 Further reading:
  * [[Ateji]] - Irregular kanji readings explained.
