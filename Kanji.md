@@ -74,7 +74,7 @@ share a lot of similarities.
 
 ## Beginner向き - Fundamentals of Kanji
 
- * Kanji readings mini-series:
+ * Mini-series on kanji readings:
    * [[[Onyomi-and-Kunyomi]]]
    * [[[Ateji]]]
    * [[[Furigana]]]
