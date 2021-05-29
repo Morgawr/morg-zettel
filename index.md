@@ -23,8 +23,8 @@ that can be freely browsed / consulted at any time, by anyone.
 
 ## Top Level topics of interest
 
- * [[5e00df06]]
- * [[fa0c8901]]
+ * [[[Japanese]]]
+ * [[[fa0c8901]]]
 
 <hr />
 
