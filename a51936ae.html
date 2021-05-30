@@ -22,6 +22,9 @@ rt {
 
   gtag('config', 'G-89X05LRPRX');
 </script>
+
+<!-- invisible image for preview -->
+<img src="static/favicon.ico" style="display: none;" />
 <!--replace-end-7--><!--replace-end-4--><!--replace-end-1--></head><body><div class="ui fluid container universe"><!--replace-start-2--><!--replace-start-3--><!--replace-start-6--><div class="ui text container" id="zettel-container" style="position: relative"><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="title-h1">Run any script manually as Cron</h1><p>This is a common problem I’ve always had, where my own script running under cron would often fail, but when ran directly as my user they would behave normally.</p><p>Having to wait for cron to schedule your test script to run is annoying and a huge time waste, so instead you can choose to run the script yourself manually as cron and see what’s wrong.</p><p>This is based on the answers from <a href="https://serverfault.com/questions/85893/running-a-cron-job-manually-and-immediately">this page</a>.</p><h2 id="step-1-create-a-cron-entry-to-extract-your-cron-environment">Step 1: Create a cron entry to extract your cron environment</h2><ul><li><code>crontab -e</code></li><li>Add <code>* * * * * /usr/bin/env &gt; /home/&lt;username&gt;/cron-env</code> where &lt;username&gt; is your username.</li><li>Save the crontab</li></ul><p>This will run all the time and save the cron environment to the given cron-env file in your home directory.</p><p>You can remove the entry afterwards or set it to run less often (I have it run every 30 minutes) if you want.</p><h2 id="step-2-create-a-wrapper-script">Step 2: Create a wrapper script</h2><p>Create the following file</p><pre><code class="language-none">#!/bin/sh
 
 . &quot;$1&quot;
