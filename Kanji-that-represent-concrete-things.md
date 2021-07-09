@@ -37,7 +37,7 @@ give you an idea of what to expect:
    * It looks like a pair of breasts. It means mother.
  * 永
    * It represents a large river that is split into multiple tributaries. A big
-     river with a lot of long branches. Its meaning is “long” and in more
+     river with a lot of long branches. Its meaning is “long” and, in more
      specific terms, that of “eternity”.
 
 ## Exceptions

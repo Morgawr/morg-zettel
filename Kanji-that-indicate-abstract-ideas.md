@@ -39,7 +39,7 @@ just looking at them, you’ll be able to retain their meaning.
 Unfortunately, since languages aren’t perfect, there are exceptions. The kanji
 四 for example is <ruby>指事文字<rt>しじもじ</rt></ruby> but its origin does not
 have the same meaning that we attribute to it in modern day (four). Originally,
-it represented “breathing”, as the kanji shows it’s an open mouth (口) with
+it represented “breathing”, as the kanji shows an open mouth (口) with
 tongue and teeth.
 
 Likewise for 八, it originally represented two lines separating, and its

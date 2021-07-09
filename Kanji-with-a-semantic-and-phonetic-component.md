@@ -42,9 +42,9 @@ can be further split into three different subgroups.
 
 In the first group, we have kanji that, thanks to their phonetic components,
 end up having the same reading:
- * 紙 (シ) = 糸 + 氏(シ)
- * 姉(シ) = 女 + 市(シ)
- * 理(リ) = 王 + 里(リ)
+ * **紙**(シ) = 糸 + **氏**(シ)
+ * **姉**(シ) = 女 + **市**(シ)
+ * **理**(リ) = 王 + **里**(リ)
 
 In the second group, we have kanji that produce a very similar sound with a
 similar component:
@@ -105,8 +105,8 @@ on how accurate we can be when predicting kanji readings and it turns out that
 some specific phonetic components will **always** be read a certain way, whereas
 some others are much more inconsistent.
 
-**Note**: when we talk about consistency we specifically mean <ruby>音読み<rt>おんよみ</rt></ruby>
-consistency, <ruby>訓読み<rt>くんよみ</rt></ruby> are a completely different
+**Note**: when we talk about consistency we specifically mean <ruby>音読<rt>おんよ</rt>み</ruby>
+consistency, <ruby>訓読<rt>くんよ</rt>み</ruby> are a completely different
 topic that cannot be explained by phonetic components. Also, the process of [rendaku](https://www.tofugu.com/japanese/rendaku/)
 can happen to pretty much any kanji regardless of their phonetic component so we
 can’t do much about that.
@@ -134,7 +134,7 @@ share the same component.
 
 Obviously, if we can identify a component that has no extra readings and 100%
 reading coverage, it means that **every single time** we see that component in
-an <ruby>音読み<rt>おんよみ</rt></ruby> compound, we’ll know with 100% certainty
+an <ruby>音読<rt>おんよ</rt></ruby>み compound, we’ll know with 100% certainty
 (minus rendaku rules) how it will be read. We call this a **perfect series**.
 
 This is a **huge** advantage when you are trying to memorize kanji readings,
