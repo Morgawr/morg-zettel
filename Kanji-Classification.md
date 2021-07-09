@@ -60,7 +60,7 @@ a quick read. Be aware that a lot of kanji learning resources out there like
 making up their own radicals or “components”. As useful as they might be for you
 to remember them, they are completely useless when it comes to actually talking
 about kanji in a formal manner, so it’s better not to confuse the two. They are
-very different.`
+very different.
 
 ## Four Types of Kanji
 
