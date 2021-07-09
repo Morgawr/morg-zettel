@@ -79,6 +79,12 @@ share a lot of similarities.
    * [[[Ateji]]]
    * [[[Furigana]]]
    * [[[Gikun]]]
+ * Series on kanji types: [[[Kanji-Classification]]]
+   * [[[Kanji-that-indicate-abstract-ideas]]]
+   * [[[Kanji-that-represent-concrete-things]]]
+   * [[[Kanji-that-tell-a-story]]]
+   * [[[Kanji-with-a-semantic-and-phonetic-component]]]
+   * [[[Exceptional-Kanji-classes]]]
 
 ## Advanced向き - In-depth with Kanji
 
