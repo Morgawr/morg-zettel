@@ -84,7 +84,7 @@ As the name implies, decomposable kanji are kanji that can be separated into
 multiple components. Non-decomposable ones on the other hand are individual
 units that cannot be further separated.
 
-Let’s start by looking at non-decomposable ones as because they are simpler, and
-then move to the more complex ones.
+Let’s start by looking at non-decomposable ones because they are simpler and
+there's fewer of them, then move on to the more complex ones later.
 
 Next: [[[Kanji-that-indicate-abstract-ideas]]]
