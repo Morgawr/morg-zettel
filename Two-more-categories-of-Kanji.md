@@ -77,7 +77,7 @@ For example, the two kanji 来 (coming) and 麦 (wheat) originally had different
 meanings, and they swapped them for each other.
 
 On the one hand, 来 meant wheat and was a <ruby>象形文字<rt>しょうけいもじ</rt></ruby>
-as its old form (來) clearly shows awns of wheat being left to possibly dry. On
+as its old form (來) clearly shows awns of wheat possibly being left to dry. On
 the other hand, 麦 meant “coming” and was originally a <ruby>形声文字<rt>けいせいもじ</rt></ruby>
 (old form: 麥) having 來 at the top for sound, and 夊 at the bottom for meaning
 (it’s a foot).
