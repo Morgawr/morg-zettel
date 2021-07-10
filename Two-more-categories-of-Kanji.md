@@ -46,7 +46,7 @@ acquiring additional meanings for all kinds of reasons.
 
 To give you a couple of quick examples:
 
- * 楽 in its original form (樂) was a <ruby>象形文字<rt>ぞうけいもじ</rt></ruby>
+ * 楽 in its original form (樂) was a <ruby>象形文字<rt>しょうけいもじ</rt></ruby>
    depicting a musical instrument made of wood (木) and strings (糸) and had the
    meaning of “music”. However, the act of listening to music became associated
    with the idea of fun (たのしい) and happiness (らく) so the kanji also
@@ -76,7 +76,7 @@ components if they appear in other kanji as <ruby>形声文字<rt>けいせい�
 For example, the two kanji 来 (coming) and 麦 (wheat) originally had different
 meanings, and they swapped them for each other.
 
-On the one hand, 来 meant wheat and was a <ruby>象形文字<rt>ぞうけいもじ</rt></ruby>
+On the one hand, 来 meant wheat and was a <ruby>象形文字<rt>しょうけいもじ</rt></ruby>
 as its old form (來) clearly shows awns of wheat being left to possibly dry. On
 the other hand, 麦 meant “coming” and was originally a <ruby>形声文字<rt>けいせいもじ</rt></ruby>
 (old form: 麥) having 來 at the top for sound, and 夊 at the bottom for meaning

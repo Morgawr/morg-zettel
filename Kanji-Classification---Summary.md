@@ -37,7 +37,7 @@ ideas or concepts:
  * 一 is the number **one** because it’s just one line.
  * 下 is an arrow pointing **down**.
 
-<ruby>象形文字<rt>ぞうけいもじ</rt></ruby> are kanji whose shape depicts a
+<ruby>象形文字<rt>しょうけいもじ</rt></ruby> are kanji whose shape depicts a
 concrete object or natural phenomenon:
  * 木 looks like a **tree**
  * 目 looks like an **eye**
@@ -65,7 +65,7 @@ The last two meta-categories are:
  * <ruby>転注文字<rt>てんちゅうもじ</rt></ruby>
    * 楽 means music, but since music is pleasant to listen to and it makes us
      happy, it also acquired the meaning of happiness.
- * <ruby>仮借文字<rt>かしゃくもじ</rt></ruby>
+ * <ruby>仮借文字<rt>かしゃもじ</rt></ruby>
    * 来 used to mean “wheat” and 麦 used to mean “coming”, but since they were
      read the same way (らい) they eventually swapped meaning. Now 来 means
      “coming” and 麦 means “wheat”.

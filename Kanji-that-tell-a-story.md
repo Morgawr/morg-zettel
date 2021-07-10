@@ -31,7 +31,7 @@ like a man (人 -> 亻) resting under a tree (木) and it means “to rest”.
 
 ## Examples
 
-Same as with <ruby>象形文字<rt>ぞうけいもじ</rt></ruby>, these kanji have also
+Same as with <ruby>象形文字<rt>しょうけいもじ</rt></ruby>, these kanji have also
 gone through a lot of simplifications and changes, so some of these examples
 might not be super obvious immediately.
 

@@ -23,7 +23,7 @@ tags:
 
 ---
 
-<ruby>象形文字<rt>ぞうけいもじ</rt></ruby> are the most “primitive” of kanji.
+<ruby>象形文字<rt>しょうけいもじ</rt></ruby> are the most “primitive” of kanji.
 While their modern rendition in kanji form may have changed quite significantly
 and we might need some imagination to properly understand what they represent,
 if you look at their original representation in [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)

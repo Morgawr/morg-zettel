@@ -86,7 +86,7 @@ intents and purposes, all kanji can be divided into the following four types
 depending on their structural composition:
  * Non-decomposable types (<ruby>分解<rt>ぶんかい</rt></ruby>できない)
    * <ruby>指事文字<rt>しじもじ</rt></ruby>
-   * <ruby>象形文字<rt>ぞうけいもじ</rt></ruby>
+   * <ruby>象形文字<rt>しょうけいもじ</rt></ruby>
  * Decomposable types (<ruby>分解<rt>ぶんかい</rt></ruby>できる)
    * <ruby>会意文字<rt>かいいもじ</rt></ruby>
    * <ruby>形声文字<rt>けいせいもじ</rt></ruby>
