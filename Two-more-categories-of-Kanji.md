@@ -61,7 +61,7 @@ To give you a couple of quick examples:
 
 ## 仮借文字 - Kanji that changed meaning due to phonetic loans
 
-<ruby>仮借文字<rt>かしゃくもじ</rt></ruby> are kanji that in ancient times
+<ruby>仮借文字<rt>かしゃもじ</rt></ruby> are kanji that in ancient times
 (often before their arrival into Japan) had a different meaning, but due to the
 fact that they sounded similar to other more common words (that were likely
 easier to write), they changed meaning to reflect those other words instead.
