@@ -56,6 +56,7 @@ Among <ruby>形声文字<rt>けいせいもじ</rt></ruby> there are some groups
 phonetic components that form **perfect series** that will let you predict the
 sound they make with 100% accuracy:
  * 付 is read フ and so are all the following kanji: 付 府 符 腐 附
+
 Not all 形声文字 are perfect series.
 
 And finally...
