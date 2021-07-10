@@ -10,6 +10,19 @@ tags:
 
 # 形声文字 - Kanji with a semantic and phonetic component
 
+## Index of articles
+
+ * [[Kanji-Classification]]
+   * [[Kanji-that-indicate-abstract-ideas]]
+   * [[Kanji-that-represent-concrete-things]]
+   * [[Kanji-that-tell-a-story]]
+   * [[Kanji-with-a-semantic-and-phonetic-component]] (You are here)
+   * [[Exceptional-Kanji-classes]]
+   * [[Two-more-categories-of-Kanji]]
+   * [[Kanji-Classification---Summary]]
+
+---
+
 The last typology of kanji is also the most prolific one, and in my opinion the
 most interesting among them. It accounts for over 90% of kanji so being familiar
 with how it works will be extremely beneficial to both your understanding and

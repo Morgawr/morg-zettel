@@ -10,6 +10,19 @@ tags:
 
 # 会意文字 - Kanji that tell a story
 
+## Index of articles
+
+ * [[Kanji-Classification]]
+   * [[Kanji-that-indicate-abstract-ideas]]
+   * [[Kanji-that-represent-concrete-things]]
+   * [[Kanji-that-tell-a-story]] (You are here)
+   * [[Kanji-with-a-semantic-and-phonetic-component]]
+   * [[Exceptional-Kanji-classes]]
+   * [[Two-more-categories-of-Kanji]]
+   * [[Kanji-Classification---Summary]]
+
+---
+
 Simply speaking, <ruby>会意文字<rt>かいいもじ</rt></ruby> are kanji made of
 multiple individual components that, when put together, end up assuming a larger
 meaning. Often these kanji can tell us some kind of story, or we can use a

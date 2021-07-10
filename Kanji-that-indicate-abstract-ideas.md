@@ -10,6 +10,19 @@ tags:
 
 # 指事文字 - Kanji that indicate abstract ideas
 
+## Index of articles
+
+ * [[Kanji-Classification]]
+   * [[Kanji-that-indicate-abstract-ideas]] (You are here)
+   * [[Kanji-that-represent-concrete-things]]
+   * [[Kanji-that-tell-a-story]]
+   * [[Kanji-with-a-semantic-and-phonetic-component]]
+   * [[Exceptional-Kanji-classes]]
+   * [[Two-more-categories-of-Kanji]]
+   * [[Kanji-Classification---Summary]]
+
+---
+
 <ruby>指事文字<rt>しじもじ</rt></ruby> are kanji whose shape offers some visual
 representation of abstract ideas or concepts. Some of them are obvious on a
 first look, like 一, 二, 三. Some others are not as obvious, like 本 or 末, but

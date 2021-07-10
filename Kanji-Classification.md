@@ -13,6 +13,17 @@ tags:
 There is one thing I want you all to remember after stumbling upon this page,
 so I’ll add it right at the beginning: **not all kanji are created equal**.
 
+## Index of articles
+
+ * [[Kanji-Classification]] (You are here)
+   * [[Kanji-that-indicate-abstract-ideas]]
+   * [[Kanji-that-represent-concrete-things]]
+   * [[Kanji-that-tell-a-story]]
+   * [[Kanji-with-a-semantic-and-phonetic-component]]
+   * [[Exceptional-Kanji-classes]]
+   * [[Two-more-categories-of-Kanji]]
+   * [[Kanji-Classification---Summary]]
+
 ## Preface
 
 This was originally intended to be a single article but the more I wrote, the

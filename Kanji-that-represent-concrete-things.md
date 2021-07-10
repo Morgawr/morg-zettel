@@ -10,6 +10,19 @@ tags:
 
 # 象形文字 - Kanji that represent concrete things
 
+## Index of articles
+
+ * [[Kanji-Classification]]
+   * [[Kanji-that-indicate-abstract-ideas]]
+   * [[Kanji-that-represent-concrete-things]] (You are here)
+   * [[Kanji-that-tell-a-story]]
+   * [[Kanji-with-a-semantic-and-phonetic-component]]
+   * [[Exceptional-Kanji-classes]]
+   * [[Two-more-categories-of-Kanji]]
+   * [[Kanji-Classification---Summary]]
+
+---
+
 <ruby>象形文字<rt>ぞうけいもじ</rt></ruby> are the most “primitive” of kanji.
 While their modern rendition in kanji form may have changed quite significantly
 and we might need some imagination to properly understand what they represent,
