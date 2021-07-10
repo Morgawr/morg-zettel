@@ -36,14 +36,17 @@ them together are called <ruby>六書<rt>りくしょ</rt></ruby>.
 ideas or concepts:
  * 一 is the number **one** because it’s just one line.
  * 下 is an arrow pointing **down**.
+
 <ruby>象形文字<rt>ぞうけいもじ</rt></ruby> are kanji whose shape depicts a
 concrete object or natural phenomenon:
  * 木 looks like a **tree**
  * 目 looks like an **eye**
+
 <ruby>会意文字<rt>かいいもじ</rt></ruby> are kanji that tell a story via its
 components:
  * 休 is a man **resting** under a tree
  * 森 is a **forest** made from a lot of trees
+
 <ruby>形声文字<rt>けいせいもじ</rt></ruby> are the most common (>90%) among
 all kanji and they are composed of one semantic and one phonetic component:
  * 語 is a kanji that relates to speaking (言) and is pronounced ゴ (五)
