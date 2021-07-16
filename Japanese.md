@@ -19,6 +19,8 @@ method to make sense of Japanese.
 There are no plans to make this a thorough and comprehensive repository, just
 a place to dump all kind of scattered knowledge.
 
+If you just want a quick primer, read [[[Japanese-Primer]]].
+
 If you have any complaints or comments about it or the site as a whole, you can
 find me on the [[EJLX]] server.
 
