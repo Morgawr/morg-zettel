@@ -30,7 +30,7 @@ Learn [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) and
 
 Learn Grammar + Vocab + [[Kanji]]
 
-**Do NOT** skip ahead, do kana first. Japanese will still there after you're
+**Do NOT** skip ahead, do kana first. Japanese will still be there after you're
 done with them don't worry.
 
 ## Grammar
