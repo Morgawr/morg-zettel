@@ -80,7 +80,7 @@ you might have had about kanji.
 
 ### References/Further Reading
 
- * [Testing the predictive power of phonetic components in Japanese kanji](https://namakajiri.net/nikki/testing-the-power-of-phonetic-components-in-japanese-kanji/)
+ * [Testing the predictive power of phonetic components in Japanese kanji](https://archive.is/f4ww4)
  * [Types of Kanji](http://nihongo.monash.edu/kanjitypes.html)
  * [指事文字・象形文字・形声文字・会意文字を楽しく学ぶ方法【3Dプリンタを使ってみる】](https://sato-ayumi.com/2019/09/01/sijimoji-shokeimoji-kanji-3dprinting/)
  * [指事文字・象形文字・形声文字・会意文字を見分けるコツは？](https://katekyo.mynavi.jp/juken/9182)

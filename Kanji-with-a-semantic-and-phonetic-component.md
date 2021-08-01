@@ -101,7 +101,7 @@ learning the words, if you learn how phonetic components work you can train your
 intuition and become really good at guessing readings even of kanji you’ve never
 seen before. It’s an extremely valuable trick to keep in mind.
 
-According to [some frequency analysis](https://namakajiri.net/nikki/testing-the-power-of-phonetic-components-in-japanese-kanji/#comment-209324),
+According to [some frequency analysis](https://archive.is/f4ww4#comment-20934),
 if you learned how these components work, you would be able to accurately predict
 phonetically **almost a quarter of all words in wikipedia articles** (constrained
 to joyo kanji list) even if you had never seen them before.
@@ -113,7 +113,7 @@ simple. Kanji have been introduced to Japan at different points in time from
 different dialects of Chinese. They also went through significant phonetic and
 morphologic changes through history thanks to how the language evolved. This
 means that not all kanji will have regular readings from said phonetic components.
-There have been some really interesting [research](https://namakajiri.net/nikki/testing-the-power-of-phonetic-components-in-japanese-kanji/)
+There have been some really interesting [research](https://archive.is/f4ww4)
 on how accurate we can be when predicting kanji readings and it turns out that
 some specific phonetic components will **always** be read a certain way, whereas
 some others are much more inconsistent.
@@ -128,7 +128,7 @@ To learn more about onyomi and kunyomi: [[[Onyomi-and-Kunyomi]]]
 
 ## Phonetic Series
 
-I really recommend giving the [original article](https://namakajiri.net/nikki/testing-the-power-of-phonetic-components-in-japanese-kanji/)
+I really recommend giving the [original article](https://archive.is/f4ww4)
 a read, but I’ll try to summarize it here in a few sentences.
 
 As a quick rundown, after performing some analysis on the shape and phonetics of
