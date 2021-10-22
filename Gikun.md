@@ -1,5 +1,6 @@
 ---
 date: 2021-05-23T16:38
+tags:
   - japanese
   - kanji
   - phonetics
