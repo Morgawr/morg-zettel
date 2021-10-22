@@ -21,10 +21,29 @@ retrieve them later.
 The idea is to gather all kind of stuff and map it in a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 that can be freely browsed / consulted at any time, by anyone.
 
-## Top Level topics of interest
+## How to browse this site
+
+In the true spirit of the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
+ideology, you would expect this to be a collection of notes.
+
+In reality, it's more like a series of articles and blog posts I've spent hours
+curating to the point where I felt comfortable releasing them to the public.
+
+On the other hand, I do write a lot of impulse drafts and walls of text on other
+sites and platforms (like reddit or discord). Not wanting to lose all the effort
+and time wasted on those types of posts, I've decided to collect them on here as
+well in a [[[Notes]]] section.
+
+## Curated Articles
 
  * [[[Japanese]]]
  * [[[fa0c8901]]]
+
+## A note on Notes
+
+**DISCLAIMER** - The [[[Notes]]] can be rough and sometimes controversial.
+Until I get the time to clean them up and turn them into proper articles,
+expect literally anything from this section of my site.
 
 <hr />
 

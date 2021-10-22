@@ -35,6 +35,6 @@ find me on the [[EJLX]] server.
    Japanese.
  * [[[9f88358f]]] - Various **Japanese resources**
 
-## Random list of various Japanese topics on this site
+## List of various Japanese-related notes
 
 [[z:zettels?tag=japanese/**&japanese]]

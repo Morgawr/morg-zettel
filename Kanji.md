@@ -72,7 +72,7 @@ share a lot of similarities.
 
 <hr />
 
-## Beginner向き - Fundamentals of Kanji
+## Fundamentals of Kanji
 
  * Mini-series on kanji readings:
    * [[[Onyomi-and-Kunyomi]]]
@@ -87,7 +87,3 @@ share a lot of similarities.
    * [[[Exceptional-Kanji-classes]]]
    * [[[Two-more-categories-of-Kanji]]]
    * [[[Kanji-Classification---Summary]]]
-
-## Advanced向き - In-depth with Kanji
-
-TODO :)
