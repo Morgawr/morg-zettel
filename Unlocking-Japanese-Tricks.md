@@ -29,3 +29,6 @@ Japanese that I cannot understand.
  - [[[How-do-I-read-this-word]]]
  - [[[What-does-this-contraction-mean]]]
  - [[[How-do-I-read-this-math-expression-in-Japanese]]]
+
+Also I recommend reading [[[Practical-Tips-to-Facilitate-Early-Reading]]] if you
+are looking for more general practical tooling to help you read.

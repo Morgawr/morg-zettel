@@ -34,6 +34,7 @@ find me on the [[EJLX]] server.
  * [[[Unlocking-Japanese-Tricks]]] - Some of my **tips** to help make sense of
    Japanese.
  * [[[9f88358f]]] - Various **Japanese resources**
+ * [[[Optimal-Reading-Immersion---Narrow-Reading]]]
 
 ## List of various Japanese-related notes
 
