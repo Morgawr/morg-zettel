@@ -40,7 +40,7 @@ this article, but I have listed a few of them with increasing complexity just to
 give you an idea of what to expect:
 
  * 人
-   * It’s a man. I mean, look at it. It’s a man.
+   * It’s a person. I mean, look at it. It’s a person.
  * 雨
    * Droplets are falling from the sky. It means rain.
  * 車
