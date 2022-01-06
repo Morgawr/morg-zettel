@@ -63,7 +63,7 @@ out what to do about it later, trust me.
 It is **much** easier to learn kanji if you already know a lot of words, so just
 learn those words. No need to rush it. Read stuff with [[Furigana]] at first so
 you won't have to worry about it. Use [yomichan](https://foosoft.net/projects/yomichan/)
-to read on the web.
+to read on the web. See also: [[[Practical-Tips-to-Facilitate-Early-Reading]]]
 
 ## Extra
 

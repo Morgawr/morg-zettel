@@ -55,6 +55,14 @@ Nobody is paying me to say this (unfortunately). There are other ebook readers
 out there, but I haven’t used them so I can’t speak too much about them. I will,
 however, write a bit about Kindle and more importantly its highlights feature.
 
+First of all, let me clarify. I am talking about the **physical** kindle device.
+Not the android/iOS/PC/Cloud app. There are unfortunately some problems with
+those apps when it comes to Japanese. They are tricky to set up with custom
+dictionaries and they do not support verb deconjugation. If you don’t know what
+that is, don’t worry about it, but understand that it makes it harder for you to
+look up words you don’t know.
+
+
 The physical kindle device, on the other hand, is great for learning Japanese.
 You can look up words by just tapping on them. You can install custom
 dictionaries to your preference (I recommend getting started with [this one](https://github.com/jrfonseca/jmdict-kindle)),

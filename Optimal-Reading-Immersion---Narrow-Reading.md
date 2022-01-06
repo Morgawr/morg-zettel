@@ -31,7 +31,7 @@ only to be met by more advanced learners’ dismissive replies along the lines o
 “just read” with very little actionable advice beyond that.
 
 A major turning point in the career of any language learner is the moment they
-transition from awkwardly trying to put together weirdly grammatically incorrect
+transition from awkwardly trying to put together weird grammatically incorrect
 sentences from their textbooks' examples to smoothly reading native material
 with minimal aid required. There is usually a moment of “enlightenment” where
 your brain goes “holy shit I am actually reading Japanese” without you even
@@ -229,8 +229,8 @@ really just be reading whatever interests you without worrying about efficiency
 or productivity. **No matter what**, if you read stuff, you **will** improve
 your language. You don’t need to constantly challenge yourself with new or
 harder things if you don’t want to. Enjoy your simple reading guilt-free, it is
-a great experience. Try to detach the need to *study* the language and just try
-to read because you find it *fun*.
+a great experience. Try to detach from the need to *study* the language and just
+read because you find it *fun*.
 
 You want to bring your second language interaction habits at a similar level of
 spontaneity as your first language. This also includes reading things you want
