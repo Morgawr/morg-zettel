@@ -36,6 +36,7 @@ well in a [[[Notes]]] section.
 
 ## Curated Articles
 
+ * [[[Diary]]]
  * [[[Japanese]]]
  * [[[fa0c8901]]]
 
