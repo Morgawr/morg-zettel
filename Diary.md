@@ -24,7 +24,7 @@ attempts at quantizing my time split for personal interest over time.
 
 ### Latest report
 
-[[3e6af951]]
+[[a0b120f0]]
 
 ### First report
 
