@@ -19,8 +19,9 @@ enjoyable when it comes to language learning (see:
 a position of informed reasoning.
 
 In the following list, I explain why I believe these ideas about how to study
-Japanese are not good (or even **bad**). With the right amount of moderation and
-openmindedness, try to think wheteher or not this applies to you as well.
+Japanese are not good (or even **bad**). With the right amount of
+openmindedness and mental flexibility, try to think whether or not these apply
+to you.
 
 ---
 
