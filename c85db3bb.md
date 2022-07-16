@@ -45,4 +45,6 @@ through it but I'm not convinced, I hope it will get better.
 
 ![Report](./static/reports/2022-07-09.png)
 
+Next entry: [[6e2946a6]]
+
 Previous entry: [[2555157b]]
