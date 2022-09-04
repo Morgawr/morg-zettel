@@ -29,6 +29,8 @@ find me on the [[EJLX]] server.
  * [[[Japanese-Frequently-Asked-Questions]]]
  * [[[58465ab9]]] - If you're looking for a good **starting point** to learn
    Japanese.
+ * If you want to improve your conversational Japanese, I have some advice for
+   [[[Learning-to-Output]]]
  * [[[List-of-Bad-Ideas-for-Japanese-Study]]]
  * [[[Kanji]]] - Series of articles if you are interested in the
    **Japanese writing system**
