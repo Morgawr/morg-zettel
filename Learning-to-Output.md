@@ -158,7 +158,7 @@ collocation rules are broken, we suddenly feel lost and confused, and the
 language will be perceived as unnatural.
 
 This is also strengthened when it comes to set phrases and expressions like
-“to catch two birds with one stone”. If I said “to catch two birds with one
+“to kill two birds with one stone”. If I said “to kill two birds with one
 rock” it would be wrong, despite the meaning being exactly the same.
 
 ### <a name="appropriate-social">Appropriate social framing and behavior</a>
