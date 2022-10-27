@@ -38,6 +38,7 @@ find me on the [[EJLX]] server.
    Japanese.
  * [[[9f88358f]]] - Various **Japanese resources**
  * [[[Optimal-Reading-Immersion---Narrow-Reading]]]
+ * [[[The-science-of-letting-go]]]
 
 ## List of various Japanese-related notes
 
