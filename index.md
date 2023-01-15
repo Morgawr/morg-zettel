@@ -46,19 +46,6 @@ well in a [[[Notes]]] section.
 Until I get the time to clean them up and turn them into proper articles,
 expect literally anything from this section of my site.
 
-<hr />
-
-### If you are enjoying my site...
-
-This is a really hacky site and I just write all kinds of stuff that goes
-through my mind, it's just a hobby of mine. If other people enjoy reading it as
-much as I do writing it, then I'm very happy.
-
-Nonetheless, if you want to show some support, you can tip me on my [nano](https://nano.org/get-nano)
-wallet:
-
-<img src="./static/nano-nano-logo.png" alt="Nano logo" width="20" /> ```nano_3otuj6smhownhn75yea8fpkxyko8m5c6tyg96nekn567obpff5gm4no6emjs```
-
 ## Timeline
 
 For a chronological list of zettels, see [[[78550a77]]]

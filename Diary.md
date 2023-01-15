@@ -16,11 +16,20 @@ I don't think my life is exciting enough to warrant writing about it, especially
 on the world wide web, I can still try and write things that float in my mind
 every once in a while I guess.
 
+## Japanese 2022 Immersion Report
+
+Here is a summary of my 2022 with Japanese:
+
+ - [[Japanese-2022-in-Review]]
+
 ## Japanese Reading Reports
 
 Reading reports are (best effort) weekly reports of stuff I've been reading
 every week. They involve a short summary, a few notes, and some time-tracking
 attempts at quantizing my time split for personal interest over time.
+
+NOTE: I stopped doing weekly reports. I might start again one day, but I just
+didn't have enough time.
 
 ### Latest report
 
