@@ -27,18 +27,22 @@ find me on the [[EJLX]] server.
 ## Interesting things to read
 
  * [[[Japanese-Frequently-Asked-Questions]]]
- * [[[58465ab9]]] - If you're looking for a good **starting point** to learn
-   Japanese.
- * If you want to improve your conversational Japanese, I have some advice for
-   [[[Learning-to-Output]]]
+ * If you're looking for a good **starting point** to learn
+   Japanese:
+    * [[[58465ab9]]]
+ * To improve your conversational Japanese:
+    * [[[Learning-to-Output]]]
  * [[[List-of-Bad-Ideas-for-Japanese-Study]]]
- * [[[Kanji]]] - Series of articles if you are interested in the
-   **Japanese writing system**
- * [[[Unlocking-Japanese-Tricks]]] - Some of my **tips** to help make sense of
-   Japanese.
- * [[[9f88358f]]] - Various **Japanese resources**
- * [[[Optimal-Reading-Immersion---Narrow-Reading]]]
- * [[[The-science-of-letting-go]]]
+ * Series of articles if you are interested in the
+   **Japanese writing system**:
+    * [[[Kanji]]]
+ * Some **tips** to help make sense of Japanese:
+    * [[[Unlocking-Japanese-Tricks]]]
+ * Various **Japanese learning resources**
+    * [[[9f88358f]]]
+ * General language approach philosophy:
+    * [[[Optimal-Reading-Immersion---Narrow-Reading]]]
+    * [[[The-science-of-letting-go]]]
 
 ## List of various Japanese-related notes
 
