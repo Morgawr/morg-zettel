@@ -10,10 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: cachix/install-nix-action@v12
+        with:
+          install_url: https://releases.nixos.org/nix/nix-2.13.3/install
       - uses: cachix/cachix-action@v9
         with:
           name: srid
-          install_url: https://releases.nixos.org/nix/nix-2.13.3/install
       # This builds neuron, as well as run tests
       - name: Install neuron
         run: nix-env -if https://github.com/srid/neuron/archive/master.tar.gz
