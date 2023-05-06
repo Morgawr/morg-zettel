@@ -17,13 +17,16 @@ to break the rules of grammar fairly often.
 
 I jokingly call these grammar points **N0 Grammar** because they don't show up
 on the [[6adb84e3]]. It has nothing to do with their difficulty however. Some
-might be tricky, but some others might be very easy to understand even just by
-reading them.
+might be tricky and some might be very easy to understand as soon as you see
+them.
 
-Below is a list of these common poinst with some attempted explanation of how
+Below is a list of these common points with an attempted explanation of how
 they work. I don't expect my explanations to be formally correct, especially
-from a linguist point of view, and you should not take them as such. It's just
-some general examples of things I've seen myself in immersion.
+from a linguist point of view, and you should not take them as such. Especially
+when it comes to slang native speakers might have different perspectives too.
+
+They are just general examples of things I've seen myself in immersion that made
+me go "huh, interesting".
 
 ---
 
