@@ -30,4 +30,10 @@ me go "huh, interesting".
 
 ---
 
+ * [[Use-of-futari-not-for-people]]
  * [[Use-of-sugoi-as-an-adverb]]
+ * [[Use-of-shiru-for-the-location-of-things]]
+ * [[ta-wa-ii-ga]]
+ * [[Using-to-to-leave-something-implied]]
+ * [[E-as-ii]]
+ * [[towa-as-with-topic-vs-to-as-with]]
