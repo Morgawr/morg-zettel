@@ -88,3 +88,9 @@ identifies as the bear in the book she's writing, she uses the word わたし
 ("I") but the author annotates it with クマ ("bear") to make it clear for the
 reader that she's not talking about herself but about the *actual* bear in the
 story.
+
+---
+
+For more examples I recommend following [this twitter account](https://twitter.com/OddFurigana)
+by yours truly, where I share all kinds of random gikun/odd furigana readings
+that I come across or that people send me.

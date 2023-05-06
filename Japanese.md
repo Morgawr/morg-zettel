@@ -32,6 +32,7 @@ find me on the [[EJLX]] server.
     * [[[58465ab9]]]
  * To improve your conversational Japanese:
     * [[[Learning-to-Output]]]
+ * [[[Collection-of-Japanese-phrases-your-textbook-won't-teach-you]]]
  * [[[List-of-Bad-Ideas-for-Japanese-Study]]]
  * Series of articles if you are interested in the
    **Japanese writing system**:
