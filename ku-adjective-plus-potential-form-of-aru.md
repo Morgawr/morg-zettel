@@ -9,7 +9,7 @@ tags:
 
 # 〜くあれる
 
-The first time you encouter this it feels kinda cursed, but you envetually
+The first time you encounter this it feels kinda cursed, but you envetually
 start to understand how it works.
 
 First, we need a quick grammar refresher on how い adjectives work and
