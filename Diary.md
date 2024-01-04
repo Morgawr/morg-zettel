@@ -20,10 +20,13 @@ every once in a while I guess.
 
  - [[[Language-learning-is-a-great-excuse-for-escapism]]]
 
-## Japanese 2022 Immersion Report
+## Japanese Yearly Immersion Reports
 
-Here is a summary of my 2022 with Japanese:
+Since 2022 I started keeping track of what media I consume in Japanese and how
+my progress is going. Here is a list of articles in decreasing chronological
+order:
 
+ - [[Japanese-2023-in-Review]]
  - [[Japanese-2022-in-Review]]
 
 ## Japanese Reading Reports
