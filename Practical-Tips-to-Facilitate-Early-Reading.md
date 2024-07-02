@@ -31,9 +31,9 @@ Thankfully, this is not the case anymore. There are ways for you to jump
 straight into reading manga or (digital) books, you just need to use the right
 tools for it.
 
-## Yomichan
+## Yomitan
 
-[Yomichan](https://foosoft.net/projects/yomichan/) is an amazing browser
+[Yomitan](https://github.com/themoeway/yomitan) is an amazing browser
 extension that every single Japanese learner should install. Let me repeat:
 **you NEED to get this**.
 
@@ -44,8 +44,14 @@ it. By clicking a button you will also be able to export not only the word but
 ankiconnect.
 
 There is a great explanation and set up guide on [this page](https://learnjapanese.moe/yomichan/)
-that goes into more details about the whole process. Alternatively, [this one](https://animecards.site/yomichansetup/)
-is also great. Give both of them a read.
+that goes into more details about the whole process. Alternatively, [this
+one](https://animecards.site/yomichansetup/) or [this
+one](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)
+are also great. Give them a read.
+
+NOTE: It used to be called "yomichan" but the project has been renamed to
+"yomitan". If you are confused with old links referring to "yomichan" just be
+aware it's the same thing, just an old name.
 
 ## Kindle + Highlights
 
@@ -74,7 +80,16 @@ and then use a tool like [this one](https://github.com/kanjieater/Smart-Japanese
 to bulk import all my highlights automatically into [[6cfc2b98]] cards for
 review later.
 
-## Textractor and Game2Text
+## Jidoujisho
+
+[Jidoujisho](https://github.com/lrorpilla/jidoujisho) is a fully-fledged
+"immersion helper" app for Android. It encompasses a set of tools and utilities
+to help reading ebooks, manga, websites, and even watch anime, videos, and all
+other types of media on your phone. It integrates well with yomitan and anki
+mining and if you are the kind of person that enjoys consuming Japanese content
+on your phone, I strongly recommend getting this app.
+
+## Textractor, Game2Text, and Yomininja
 
 If actual novels aren’t your cup of tea, and you’d rather read visual novels or
 play video games, there are also tools to help with that. [This page](https://learnjapanese.moe/vn/)
@@ -84,6 +99,9 @@ to be able to automatically extract and look up text from visual novels.
 On the other hand, if you prefer video games, or the visual novel you want to
 read does not support textractor, there is also another great tool called
 [game2text](https://game2text.com/welcome/) that I strongly recommend.
+
+[Yomininja](https://github.com/matt-m-o/YomiNinja) is also another amazing
+alternative to game2text for automated OCR
 
 ## Manga with Furigana
 
