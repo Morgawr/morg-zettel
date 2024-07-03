@@ -18,6 +18,7 @@ every once in a while I guess.
 
 ## Opinion pieces
 
+ - [[[I-don't-get-competitive-language-learning]]]
  - [[[Language-learning-is-a-great-excuse-for-escapism]]]
 
 ## Japanese Yearly Immersion Reports
