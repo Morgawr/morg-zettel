@@ -45,8 +45,7 @@ done with them don't worry.
  * Install and learn how to use [[6cfc2b98]] (Also read [this page](https://refold.la/roadmap/stage-1/c/srs-best-practices))
 
  * Grab a core deck and start learning **core** vocab. My recommendation is to
-   get the N5 and N4 [ankidrone starter pack](https://tatsumoto.neocities.org/blog/basic-vocabulary#anki-deck)
-   decks (first do the N5, and then the N4 one).
+   get the [kaishi core deck](https://github.com/donkuri/Kaishi).
 
  * Once you're finished with those, start [sentence mining](https://refold.la/roadmap/stage-2/a/basic-sentence-mining).
 
