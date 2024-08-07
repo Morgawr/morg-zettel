@@ -109,13 +109,12 @@ While manga is my number one recommendation for a beginner to get into reading
 Japanese, it also presents a problem that ebooks and visual novels don’t have:
 in manga pages you cannot easily extract text to look up.
 
-There are some small sites like [bilingualmanga](https://bilingualmanga.net/)
-that try to offer you a platform where you can copy and paste the text in
-balloons, but the amount of stuff you can read from them is very limited, often
-has typos, or gets taken down as it’s copyrighted material.
+There are tools like [mokuro](https://github.com/kha-white/mokuro) that you can
+use to scan manga and create text-selectable pages so you can use yomitan with
+them.
 
-On the other hand, a lot of manga aimed towards younger audiences (which makes
-it great for beginners too!) has [[Furigana]] for every single kanji. This makes
+Alternatively, a lot of manga aimed towards younger audiences (which makes
+it great for beginners too!) have [[Furigana]] for every single kanji. This makes
 it easier to read and look up words, and you will not need any fancy tools to do
 so. If you can buy physical manga as well, it can be quite nice to read on the
 couch away from all technology and distractions. Just you, your manga, and your
