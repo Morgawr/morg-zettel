@@ -33,7 +33,7 @@ tools for it.
 
 ## Yomitan
 
-[Yomitan](https://github.com/themoeway/yomitan) is an amazing browser
+[Yomitan](https://yomitan.wiki/) is an amazing browser
 extension that every single Japanese learner should install. Let me repeat:
 **you NEED to get this**.
 

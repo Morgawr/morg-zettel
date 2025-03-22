@@ -5,6 +5,8 @@ tags:
   - japanese
   - pinned
   - timeline
+feed:
+  count: 20
 ---
 
 # Japanese

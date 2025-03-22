@@ -35,7 +35,7 @@ done with them don't worry.
 
 ## Grammar
 
- * Read [Sakubi](https://sakubi.neocities.org/) if you value independence and
+ * Read [[[yokubi]]] if you value independence and
    just want to read native material as soon as possible.
 
  * Read [Genki](http://genki.japantimes.co.jp/index_en) if you want a textbook.
@@ -47,10 +47,10 @@ done with them don't worry.
  * Grab a core deck and start learning **core** vocab. My recommendation is to
    get the [kaishi core deck](https://github.com/donkuri/Kaishi).
 
- * Once you're finished with those, start [sentence mining](https://refold.la/roadmap/stage-2/a/basic-sentence-mining).
+ * Once you're finished with those, start [sentence mining](https://xelieu.github.io/jp-lazy-guide/).
 
 **NOTE**: Don't burn out on anki, stick to ~10 new words a day for a few weeks
-to see how it goes. Also read [[31f3d49a]].
+to see how it goes.
 
 ## Kanji
 
@@ -60,7 +60,7 @@ out what to do about it later, trust me.
 
 It is **much** easier to learn kanji if you already know a lot of words, so just
 learn those words. No need to rush it. Read stuff with [[Furigana]] at first so
-you won't have to worry about it. Use [yomichan](https://foosoft.net/projects/yomichan/)
+you won't have to worry about it. Use [yomitan](https://yomitan.wiki/)
 to read on the web. See also: [[[Practical-Tips-to-Facilitate-Early-Reading]]]
 
 ## Extra

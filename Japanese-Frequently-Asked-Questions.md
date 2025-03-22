@@ -27,8 +27,7 @@ If what you're looking for is not here, consider also reading the
 
 ### How do I learn Japanese?
 
- * See [this page](https://github.com/EngJpDiscordExchange/Awesome-Japanese/blob/master/readme.md#beginner-guide)
- * Also [[9f88358f]] and [[58465ab9]].
+ * See [[58465ab9]].
 
 ### How do I learn hiragana and katakana?
 
@@ -45,6 +44,7 @@ If what you're looking for is not here, consider also reading the
 ### What is the difference between は and が?
 
  * Watch [this video](https://youtu.be/FknmUij6ZIk) (seriously, do it)
+ * Alternatively, read [this page](https://konomu.github.io/wa-ga-basics)
 
 ### Why is こんにちは pronounced konnichiwa?
 
@@ -59,7 +59,7 @@ If what you're looking for is not here, consider also reading the
 
 ### What is the difference between formal and polite?
 
-<img src="https://media.discordapp.net/attachments/189601264424714241/417997696335347712/Screenshot_20180227-1952352.png" alt="Formal vs Polite" width="400" />
+<img src="./static/politeformal.png" alt="Formal vs Polite" width="400" />
 
 ## Grammar Questions
 
@@ -72,7 +72,6 @@ If what you're looking for is not here, consider also reading the
 ### What is the difference between だ and です?
 
  * Read [this amazing tofugu article](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/)
- * Also see [[786b5d64]]
 
 ### What is the difference between these conditionals?  (たら vs ば vs と vs ...)
 

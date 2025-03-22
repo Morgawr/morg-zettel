@@ -4,6 +4,8 @@ tags:
   - personal
   - pinned
   - timeline
+feed:
+  count: 10
 ---
 
 # Diary
