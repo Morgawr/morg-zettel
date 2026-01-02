@@ -29,6 +29,7 @@ Since 2022 I started keeping track of what media I consume in Japanese and how
 my progress is going. Here is a list of articles in decreasing chronological
 order:
 
+ - [[Japanese-2025-in-Review]]
  - [[Japanese-2024-in-Review]]
  - [[Japanese-2023-in-Review]]
  - [[Japanese-2022-in-Review]]
