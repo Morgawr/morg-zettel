@@ -9,7 +9,7 @@ tags:
 
 # Japanese 2025 in Review
 
-Discussion post on [reddit](TODO).
+Discussion post on [reddit](https://www.reddit.com/r/LearnJapanese/comments/1q22nvj/my_japanese_immersion_report_of_2025_2025_in/?).
 
 (Long) Video on [youtube](https://youtu.be/45l0hyvuDYg).
 
