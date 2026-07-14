@@ -17,7 +17,7 @@ jobs:
           name: srid
       # This builds neuron, as well as run tests
       - name: Install neuron
-        run: nix-env -if https://github.com/srid/neuron/archive/master.tar.gz
+        run: nix-env -if https://github.com/srid/neuron/archive/master.tar.gz --extra-experimental-features flakes
       - name: Build neuron site 🔧
         run: |
           neuron --version
