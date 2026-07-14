@@ -15,9 +15,9 @@ jobs:
       - uses: cachix/cachix-action@v9
         with:
           name: srid
-      # This builds neuron, as well as run tests
+      # Pin Neuron 1.9.35.3, the version used by the last successful deployment
       - name: Install neuron
-        run: nix-env -if https://github.com/srid/neuron/archive/master.tar.gz --extra-experimental-features flakes
+        run: nix-env -if https://github.com/srid/neuron/archive/aff49d85dc7d9c4b011a1e5a27ffae8f7e4f5537.tar.gz
       - name: Build neuron site 🔧
         run: |
           neuron --version
